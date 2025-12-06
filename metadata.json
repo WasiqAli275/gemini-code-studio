@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Code Studio",
+  "description": "A powerful coding assistant and file analyzer powered by Gemini. Supports multiple file uploads, syntax highlighting, and code generation to bridge the gap in handling coding tasks and file contexts.",
+  "requestFramePermissions": []
+}
